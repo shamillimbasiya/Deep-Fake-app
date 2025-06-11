@@ -1,0 +1,9 @@
+librosa
+opencv-python
+opencv-contrib-python
+tensorboard
+tqdm
+mpi4py-mpich
+av
+
+-e ./guided-diffusion

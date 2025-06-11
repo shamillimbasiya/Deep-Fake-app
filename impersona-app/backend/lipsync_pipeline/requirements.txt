@@ -1,0 +1,14 @@
+coqui-tts
+librosa==0.10.1
+opencv-python
+opencv-contrib-python
+tensorboard
+tqdm
+mpi4py-mpich
+av
+torchvision
+#numpy
+torch
+numba
+
+#-e diff2lip/guided-diffusion
